@@ -1,2 +1,4 @@
-# chibicc-learn
-learn complier from rui314 and PLCT library
+# CC-learn
+goal:learn compiler
+
+based: chibicc from rui314; PLCT library open course;
